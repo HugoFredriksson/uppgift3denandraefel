@@ -14,51 +14,30 @@ table, th, td {
     text-align: right;
   }
   .först {
-    text-align: left
-    ;
-  }
-  .center{
-    text-align: center;
-}
-
-.right{
-    text-align: right;
-}
-
-.left{
     text-align: left;
-}
-
-.bruh{
-    background-color: green;
-}
-
-.red{
+  }
+  .blau {
+    background-color:blue;
+    width: 250px;
+    height: 250px;
+  }
+  .claus {
     background-color: red;
-    color: white;
-}
-
-.second{
-    width: 300px;
-    height: 200px;
-}
-
-.blue{
-    background-color: blue;
-}
-
-.johan{
-    background-color: red;
-}
-
-.homo{
-    width: 600px;
-}
-
-.carl{
-    background-color: yellow;
-}
-
-.black{
-    background-color: black; 
-}
+    width: 500px;
+    height: 250px;
+  }
+  .adolf {
+    background-color:yellow;
+    width: 250px;
+    height: 250px;
+  }
+  .gunnar {
+    width: 250px;
+    height:250px;
+    background-color: black;
+  }
+  .drei {
+      width: 500px;
+      height: 250px; 
+      background-color: green;
+  }
