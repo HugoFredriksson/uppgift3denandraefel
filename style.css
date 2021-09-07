@@ -1,16 +1,44 @@
 table, th, td {
   border-collapse: collapse;
   border-spacing: 0;
-  width: 100%;
   border: 1px solid black;
-}
-
-th{
-  text-align: left;
-  padding: 16px;
-  background-color: red
 }
 
 tr:nth-child(even) {
   background-color:blueviolet;
+}
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
+.först {
+  text-align: left
+  ;
+}
+.blau {
+  background-color:blue;
+  width: 250px;
+  height: 250px;
+}
+.claus {
+  background-color: red;
+  width: 500px;
+  height: 250px;
+}
+.adolf {
+  background-color:yellow;
+  width: 250px;
+  height: 250px;
+}
+.gunnar {
+  width: 250px;
+  height:250px;
+  background-color: black;
+}
+.anders {
+  background-color: green;
+  width: 250px;
+  height: 250px;
 }
